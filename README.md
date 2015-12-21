@@ -1,2 +1,2 @@
 # tiny4412
-includes bareboard, drivers, u-boots and kernels
+includes bareboards, drivers, u-boots and kernels
